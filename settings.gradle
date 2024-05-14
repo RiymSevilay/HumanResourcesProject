@@ -1,0 +1,6 @@
+rootProject.name = 'HumanResourcesProject'
+include 'AuthMicroService'
+include 'ConfigServer'
+include 'UserMicroService'
+include 'MailMicroService'
+
